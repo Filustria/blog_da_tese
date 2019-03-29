@@ -13,8 +13,12 @@ pygmentscodefences  = true
   disableWebFonts = false
   name = "Adelson Guaraci Jantsch"
   role = "Ph.D. Candidate"
-  email = "adelson.smsrio@gmail.com"
   
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:adelson.smsrio@gmail.com"
+
 
 [[menu.main]]
     name = "About"
