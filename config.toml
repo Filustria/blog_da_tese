@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "Cost-Effectiveness Analysis of vocational training in Family Medicine under the Rio de Janeiro Primary Care Reform"
   disableWebFonts = false
 
 [[menu.main]]
