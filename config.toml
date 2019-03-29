@@ -11,6 +11,10 @@ pygmentscodefences  = true
 [params]
   sitename = "Cost-Effectiveness Analysis of vocational training in Family Medicine under the Rio de Janeiro Primary Care Reform"
   disableWebFonts = false
+  name = "Adelson Guaraci Jantsch"
+  role = "Ph.D. Candidate"
+  email = "adelson.smsrio@gmail.com"
+  
 
 [[menu.main]]
     name = "About"
