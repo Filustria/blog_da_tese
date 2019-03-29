@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+title = "Cost-Effectiveness Analysis of vocational training in Family Medicine under the Rio de Janeiro Primary Care Reform"
+author = "Adelson Guaraci Jantsch"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-black-and-light-theme"
@@ -21,4 +21,7 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Resume"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Contacts"
+    url  = "https://github.com/Filustria"
 
